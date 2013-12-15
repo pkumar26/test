@@ -10,7 +10,7 @@
 package "jenkins" do
 	action :install
 end
-#test 2
+#test back again
 # start the Jenkins service
 # make sure Jenkins service is started after machine reboot
 service "jenkins" do
